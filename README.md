@@ -29,6 +29,13 @@ Searching for an element in the Treap is similar to searching in a binary search
 - Its randomized nature helps in balancing the tree, resulting in better performance compared to deterministic binary search trees in certain scenarios.
 - It is relatively simple to implement and does not require complex balancing algorithms.
 
+## References
+
+[1] Seidel, R., & Aragon, C. R. (1996). Randomized search trees. Algorithmica, 16(4-5), 464-497.
+
+[2] Goodrich, M. T., Tamassia, R., & Goldwasser, M. H. (n.d.). Data Structures and Algorithms in Python.
+
+
 ## Applications
 
 - Treaps are commonly used in scenarios where both search and priority-based operations are required, such as priority queues.
